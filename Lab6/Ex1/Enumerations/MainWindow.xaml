@@ -1,0 +1,14 @@
+﻿<Window x:Class="Enumerations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Specify Domains" Height="350" Width="600" Loaded="Window_Loaded">
+    <Grid>
+        <Label HorizontalAlignment="Left" Margin="17,18,0,0" VerticalAlignment="Top" Width="121" Content="Материал" />
+        <Label HorizontalAlignment="Left" Margin="147,18,0,0" VerticalAlignment="Top" Width="121" Content="Поперечное сечение" />
+        <Label HorizontalAlignment="Left" Margin="278,18,0,0" VerticalAlignment="Top" Width="121" Content="Результат теста" />
+        <ListBox Height="181" HorizontalAlignment="Left" Margin="17,38,0,0" Name="materials" VerticalAlignment="Top" Width="121" SelectionChanged="selectionChanged" />
+        <ListBox Height="181" HorizontalAlignment="Left" Margin="147,38,0,0" Name="crossSections" VerticalAlignment="Top" Width="121" SelectionChanged="selectionChanged" />
+        <ListBox Height="181" HorizontalAlignment="Left" Margin="278,38,0,0" Name="testResults" VerticalAlignment="Top" Width="121" SelectionChanged="selectionChanged" />
+        <Label Content="" Height="28" HorizontalAlignment="Left" Margin="17,271,0,0" Name="testDetails" VerticalAlignment="Top" Width="550" />
+    </Grid>
+</Window>

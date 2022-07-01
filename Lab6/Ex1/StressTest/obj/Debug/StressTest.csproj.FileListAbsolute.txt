@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 6\Ex 1\Solution\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 1\Solution\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex 1\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex 1\Solution\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 1\Solution\StressTest\obj\Debug\StressTest.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\bin\Debug\StressTest.dll
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\bin\Debug\StressTest.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\obj\Debug\StressTest.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\obj\Debug\StressTest.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\obj\Debug\StressTest.dll
+C:\Users\1290743\Desktop\С# Labs\Lab6\Ex1\StressTest\obj\Debug\StressTest.pdb

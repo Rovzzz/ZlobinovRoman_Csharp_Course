@@ -1,0 +1,17 @@
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\obj\Debug\GCD_Test_Project.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\obj\Debug\GCD_Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\GCD_Test_Project.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\GCD_Test_Project.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\obj\Debug\GCD_Test_Project.csproj.CopyComplete
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\obj\Debug\GCD_Test_Project.dll
+C:\Users\1290743\Desktop\С# Labs\Lab3\Ex1\Lab3-Ex1\GCD_Test_Project\obj\Debug\GCD_Test_Project.pdb

@@ -1,0 +1,15 @@
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\bin\Debug\Lab2-Ex3.exe.config
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\bin\Debug\Lab2-Ex3.exe
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\bin\Debug\Lab2-Ex3.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\App.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3_MarkupCompile.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3_MarkupCompile.lref
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.g.resources
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2_Ex3.Properties.Resources.resources
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.exe
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex3\Lab2-Ex3\Lab2-Ex3\obj\Debug\Lab2-Ex3.pdb

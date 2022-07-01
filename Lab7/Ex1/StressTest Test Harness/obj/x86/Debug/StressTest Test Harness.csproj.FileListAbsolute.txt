@@ -1,0 +1,31 @@
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\StessTest_Test_Harness.Properties.Resources.resources
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+E:\Labfiles\Lab 7\Ex1\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\bin\Debug\StressTest.dll
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\bin\Debug\StressTest.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\App.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\StessTest_Test_Harness.Properties.Resources.resources
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csproj.CopyComplete
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+C:\Users\1290743\Desktop\С# Labs\Lab7\Ex1\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb

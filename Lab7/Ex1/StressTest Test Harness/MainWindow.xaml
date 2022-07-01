@@ -1,0 +1,16 @@
+﻿<Window x:Class="StessTest_Test_Harness.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hiding Data Members" Height="350" Width="724">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="675*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Height="193" HorizontalAlignment="Left" Margin="12,12,0,0" Name="testList" VerticalAlignment="Top" Width="300" Grid.ColumnSpan="2" />
+        <ListBox Height="193" HorizontalAlignment="Left" Margin="276.545,12,0,0" Name="resultList" VerticalAlignment="Top" Width="372" Grid.Column="1" />
+        <Button Content="Провести Стресс-Тесты" Height="23" HorizontalAlignment="Left" Margin="12,276,0,0" Name="doTests" VerticalAlignment="Top" Width="135" Click="doTests_Click" Grid.ColumnSpan="2" />
+        <Label Content="Статистика" HorizontalAlignment="Left" Margin="169.545,227,0,56" Name="statisticsLabel1" Width="280" Grid.Column="1" />
+        <Label Content="Статистика" Height="28" HorizontalAlignment="Left" Margin="169.545,250,0,0" Name="statisticsLabel2" VerticalAlignment="Top" Width="280" Grid.Column="1" />
+    </Grid>
+</Window>

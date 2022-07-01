@@ -1,0 +1,39 @@
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 4\Ex 2\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\App.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex2\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb

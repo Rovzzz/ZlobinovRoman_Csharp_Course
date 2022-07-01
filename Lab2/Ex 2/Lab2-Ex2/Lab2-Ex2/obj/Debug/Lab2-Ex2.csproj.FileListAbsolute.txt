@@ -1,0 +1,15 @@
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\bin\Debug\Lab2-Ex2.exe.config
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\bin\Debug\Lab2-Ex2.exe
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\bin\Debug\Lab2-Ex2.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\App.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2_MarkupCompile.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2_MarkupCompile.lref
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.g.resources
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2_Ex2.Properties.Resources.resources
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.exe
+C:\Users\1290743\Desktop\С# Labs\Lab2\Ex 2\Lab2-Ex2\Lab2-Ex2\obj\Debug\Lab2-Ex2.pdb

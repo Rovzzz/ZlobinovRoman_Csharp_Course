@@ -1,0 +1,16 @@
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\SwitchDevice\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\SwitchDevice\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\SwitchDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\SwitchDevice\obj\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\SwitchDevice\obj\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1\Solution\SwitchDevice\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1\Solution\SwitchDevice\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1\Solution\SwitchDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1\Solution\SwitchDevice\obj\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1\Solution\SwitchDevice\obj\Debug\SwitchDevice.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\bin\Debug\SwitchDevice.dll
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\bin\Debug\SwitchDevice.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\obj\Debug\SwitchDevice.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\obj\Debug\SwitchDevice.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\obj\Debug\SwitchDevice.dll
+C:\Users\1290743\Desktop\С# Labs\Lab4\Ex1\SwitchDevice\obj\Debug\SwitchDevice.pdb

@@ -1,0 +1,30 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 8\Ex2\Solution\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\bin\Debug\DeviceController.dll
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\bin\Debug\DeviceController.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.CopyComplete
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+C:\Users\1290743\Desktop\С# Labs\Lab8\Ex2\MeasuringDevice\obj\Debug\MeasuringDevice.pdb

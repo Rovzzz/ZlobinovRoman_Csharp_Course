@@ -1,0 +1,15 @@
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\bin\Debug\Lab1-Ex2-WPF Application.exe.config
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\bin\Debug\Lab1-Ex2-WPF Application.exe
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\bin\Debug\Lab1-Ex2-WPF Application.pdb
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\App.g.cs
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application_MarkupCompile.cache
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application_MarkupCompile.lref
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.g.resources
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1_Ex2_WPF_Application.Properties.Resources.resources
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.exe
+C:\Users\1290743\Desktop\С# Labs\Lab1\Lab1-Ex2\Lab1-Ex2-WPF Application\Lab1-Ex2-WPF Application\obj\Debug\Lab1-Ex2-WPF Application.pdb
